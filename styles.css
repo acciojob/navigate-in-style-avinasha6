@@ -5,7 +5,7 @@
         }
 
         /* List Styling */
-        .nav-bar ul {
+        .nav-bar ul  {
             list-style: none; /* Remove bullets */
             padding: 0;
             margin: 0;
@@ -13,6 +13,7 @@
 
         /* List Items Styling */
         .nav-bar li {
+			list-style: none;
             display: inline; /* Display items horizontally */
             margin-right: 1rem; /* Add spacing between items */
         }
