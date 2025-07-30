@@ -1,19 +1,1 @@
-/*  your css code here. If applicable */
-.nav-bar {
-            background-color: #D3D3D3; /* Light Gray */
-            padding: 10px;
-        }
 
-        /* List Styling */
-        .nav-bar ul  {
-            list-style: none; /* Remove bullets */
-            padding: 0;
-            margin: 0;
-        }
-
-        /* List Items Styling */
-        .nav-bar li {
-			list-style: none;
-            display: inline; /* Display items horizontally */
-            margin-right: 1rem; /* Add spacing between items */
-        }
